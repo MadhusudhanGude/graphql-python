@@ -1,0 +1,9 @@
+*.pyc
+.history/*
+.env
+.vscode/
+.idea/
+notes/
+Pipfile.lock
+input.txt
+celerybeat*
